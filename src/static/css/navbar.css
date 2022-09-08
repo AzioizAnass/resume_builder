@@ -1,0 +1,30 @@
+/*  */
+
+  .navbar-nav > a{
+    margin-left:0px;
+    margin-right:50px;
+    color: black;
+    font-weight: 500;
+
+  }
+  .navbar-collapse > a{
+    color:black ;
+    font-weight: 500;
+  }
+  
+.navbar-collapse > button{
+    margin-left:20px !important;
+    margin-right:0px;
+    font-weight: 500;
+
+  }
+
+  .nav-link{
+    font-size: 1rem !important;
+  }
+  .navbar-collapse > a{
+    margin-left:15px !important;
+    margin-right:0px;
+    font-size: 16px !important;
+    font-weight: 500;
+  }

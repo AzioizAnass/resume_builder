@@ -1,0 +1,24 @@
+/* my resumes */
+
+  .navbar-nav > a{
+    margin-left:20px;
+    margin-right:50px;
+    color: black;
+
+  }
+  /* Log Out */  
+.navbar-collapse > a{
+    margin-left:15px !important;
+    margin-right:0px;
+    font-size: 16px !important;
+
+  }
+  /* New CV */  
+
+.navbar-nav > button{
+  font-weight: 500;
+  margin-right: 20px;
+
+
+
+}
