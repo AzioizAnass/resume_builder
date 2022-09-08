@@ -2,13 +2,6 @@
 
 An awesome Resume Builder web app. User can register any social service by logging into it. User can log in with gmail are registering with a manual email. User can Creating a Professional Resume and Print it.
 
-
-## 🚀 Important Links
-
-- [Live Website](https://resume-builder-bd.web.app/)
-- [Project Proposal](https://drive.google.com/file/d/1wjUupz3V52tfxB4uFbuCh7uEsVX8WEcM/view?usp=sharing)
-- [Project Documentation](https://drive.google.com/file/d/1zkSioSj1OojEsuJZSpw6hbFIDbqAAMU5/view?usp=sharing)
-
 ## 💎 Features :
 
 * This web app provide an easy way of creating professional looking resume.
@@ -20,9 +13,8 @@ download or print his/her resume.
 
 ## 🛠 Front-end Thechnology : 
 * React.js
-* Context-API
-* Bootstrap4
-* SCSS
+* Bootstrap5
+* CSS
 * Firebase
 
 ---
@@ -40,11 +32,6 @@ download or print his/her resume.
  npm start
 ```
 
-## 🗃️ Problem Scenario: 
-
-In our country, computer science graduates say that there are no jobs in Bangladesh and on the other hand, recruiters who will hire people in software companies say that they are not finding skilful suitable candidates. Now a days this is a common problem in our country. I have seen a lot of time around in different job groups on Facebook and LinkedIn that a lot of people are posting and saying job seekers are don't know about resume format, they use a ridiculous email address, don’t include contact information spelling and grammar mistake, they don’t know about fonts size, use multiple fonts with multiple colour, they use misleading information and too much personal information, don’t know about photograph format, not provide job position related skills or experience information, they don’t know about job responsibilities and company profile etc. 
-
-Most candidates make the biggest mistake of copying someone else's resume. The resume is the coordinating medium between Job Seeker and Job Recruiter. So as a result of not creating the resume properly, many times they do not get the call for the interview, they are rejected in the resume filter phase. So I want to create a web application where anyone can easily create the perfect resume for every job position.
 
 ## 💡 Problem Statement: 
 
