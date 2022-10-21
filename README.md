@@ -12,9 +12,10 @@ professional hints.
 download or print his/her resume.
 
 ## 🛠 Front-end Thechnology : 
-* React.js
+* ReactJs
 * Bootstrap5
 * CSS
+* Material UI
 * Firebase
 
 ---
